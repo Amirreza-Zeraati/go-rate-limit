@@ -15,7 +15,7 @@ A lightweight, IP-based rate limiting middleware for Go applications using the G
 
 ## 📦 Prerequisites
 
-* Go `v1.16+`
+* Go `v1.20+`
 * [Redis](https://redis.io/) server
 * [Gin](https://github.com/gin-gonic/gin) web framework
 * [godotenv](https://github.com/joho/godotenv) for loading `.env` files
