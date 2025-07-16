@@ -27,7 +27,7 @@ A lightweight, IP-based rate limiting middleware for Go applications using the G
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/go-rate-limit.git
+git clone https://github.com/Amirreza-Zeraati/go-rate-limit.git
 cd go-rate-limit
 ```
 
